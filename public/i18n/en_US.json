@@ -1,0 +1,10 @@
+{
+    "collect": "Inbox Collect",
+    "success": "✅ Collected to",
+    "error": "❌ Failed",
+    "noSelection": "⚠️ No text selected",
+    "configTitle": "Target Configuration (JSON)",
+    "configDesc": "Please configure your target documents in JSON format. Click save after modification.",
+    "saveSuccess": "✅ Configuration saved",
+    "formatError": "❌ Format error, please check JSON format"
+}

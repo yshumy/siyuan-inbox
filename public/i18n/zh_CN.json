@@ -1,0 +1,19 @@
+{
+    "collect": "Inbox 收集",
+    "success": "✅ 已收集到",
+    "error": "❌ 失败",
+    "manageTargets": "管理收集目标",
+    "manageTargetsDesc": "添加、编辑或删除您的收集箱配置",
+    "addTarget": "➕ 添加目标",
+    "editTarget": "编辑目标",
+    "saveSuccess": "✅ 配置已保存",
+    "name": "名称",
+    "docId": "文档 ID",
+    "titleLevel": "标题级别",
+    "titleType": "分割类型",
+    "titleChar": "分割字符",
+    "addSource": "添加来源链接",
+    "cancel": "取消",
+    "save": "保存",
+    "emptyError": "名称和 ID 不能为空"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "inbox",
+    "author": "Manus",
+    "url": "https://github.com/manus/siyuan-inbox",
+    "version": "1.0.0",
+    "minAppVersion": "2.10.0",
+    "displayName": {
+        "default": "Inbox",
+        "zh_CN": "Inbox"
+    },
+    "description": {
+        "default": "A powerful collection tool for SiYuan Note. Quickly collect blocks or text to target documents.",
+        "zh_CN": "思源笔记强大的收集工具。快速将块或文字收集到目标文档。"
+    },
+    "readme": {
+        "default": "README.md",
+        "zh_CN": "README_zh_CN.md"
+    },
+    "icon": "icon.png"
+}
